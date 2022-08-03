@@ -1,0 +1,16 @@
+.alerta{
+    background: linear-gradient(70deg, white, blue, white);
+    display: none;
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    height: 48.5vh;
+    justify-content: center;
+}
+
+.ganador, .perdedor {
+    font-size: 5rem;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+}

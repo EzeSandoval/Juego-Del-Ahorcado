@@ -1,0 +1,25 @@
+.icono{
+    font-size: 1.5rem;
+    margin: 0 10px 0 10px;
+    color: white;
+    box-sizing: border-box;
+}
+.icono:hover{
+    cursor: pointer;
+}
+
+.instagram:hover{
+    color: #ff5100;
+}
+
+.github:hover{
+    color: #00012c;
+}
+
+.facebook:hover{
+    color:black;
+}
+
+.linkedin:hover{
+    color: #383ac0;
+}

@@ -1,0 +1,9 @@
+.campo__texto{
+    width: 2.5%;
+    height: 7%;
+    margin-left: 47.5%;
+    font-size: 1rem;
+    border: none;
+    text-align: center;
+    text-transform: uppercase;
+}

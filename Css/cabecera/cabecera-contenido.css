@@ -1,0 +1,7 @@
+.cabecera__contenido{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+.boton{
+    box-sizing: border-box;
+    font-size: 1.2rem;
+    color: rgba(35, 35, 226, 0.938);
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 1.5rem;
+    background-color: white;
+}
+
+.boton:hover{
+    cursor: pointer;
+    border: 2px solid rgba(35, 35, 226, 0.623);
+}
+
+.jugar{
+ margin-right: 30px;
+}

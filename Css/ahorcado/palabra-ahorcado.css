@@ -1,0 +1,8 @@
+.palabra__ahorcado{
+    font-size: 2rem;
+    width: 100%;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
